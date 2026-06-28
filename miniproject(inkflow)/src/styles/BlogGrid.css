@@ -1,0 +1,26 @@
+.blog-grid-section{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+}
+
+.section-title{
+    margin-bottom:40px;
+}
+
+.section-title h2{
+    font-size:38px;
+    margin-bottom:10px;
+}
+
+.blog-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+    gap:30px;
+}
+
+.no-posts{
+    text-align:center;
+    padding:60px;
+    color:#94a3b8;
+}

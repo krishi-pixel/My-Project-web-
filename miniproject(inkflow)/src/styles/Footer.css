@@ -1,0 +1,20 @@
+.footer{
+    margin-top:80px;
+    padding:50px 20px;
+    text-align:center;
+    border-top:1px solid rgba(255,255,255,.08);
+    background:#0d1528;
+}
+
+.footer h2{
+    color:#38bdf8;
+    margin-bottom:12px;
+}
+
+.footer p{
+    margin-bottom:12px;
+}
+
+.footer small{
+    color:#94a3b8;
+}

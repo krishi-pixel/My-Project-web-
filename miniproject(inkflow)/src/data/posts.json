@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "category": "React",
+    "author": "Krishi Mudaliar",
+    "date": "28 June 2026",
+    "readingTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+    "description": "Learn the fundamentals of React including components, JSX, props, and state to build modern web applications."
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Artificial Intelligence",
+    "category": "AI",
+    "author": "Krishi Mudaliar",
+    "date": "25 June 2026",
+    "readingTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "description": "Explore how artificial intelligence is transforming industries through machine learning and intelligent automation."
+  },
+  {
+    "id": 3,
+    "title": "Top Road Trips Around Maharashtra",
+    "category": "Travel",
+    "author": "Krishi Mudaliar",
+    "date": "20 June 2026",
+    "readingTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+    "description": "Discover scenic drives, hidden forts, waterfalls and unforgettable weekend destinations across Maharashtra."
+  },
+  {
+    "id": 4,
+    "title": "Mastering Modern JavaScript",
+    "category": "Programming",
+    "author": "Krishi Mudaliar",
+    "date": "18 June 2026",
+    "readingTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800",
+    "description": "Understand ES6 features, asynchronous programming, modules and modern JavaScript best practices."
+  },
+  {
+    "id": 5,
+    "title": "Building Responsive Websites",
+    "category": "Web Design",
+    "author": "Krishi Mudaliar",
+    "date": "15 June 2026",
+    "readingTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+    "description": "Create beautiful websites that work perfectly on desktops, tablets and mobile devices using responsive design."
+  },
+  {
+    "id": 6,
+    "title": "Future of Machine Learning",
+    "category": "AI",
+    "author": "Krishi Mudaliar",
+    "date": "12 June 2026",
+    "readingTime": "9 min read",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+    "description": "Learn about the latest trends in machine learning, deep learning and the future of intelligent systems."
+  }
+]

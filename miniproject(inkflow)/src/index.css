@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#0B1120;
+    color:#ffffff;
+    overflow-x:hidden;
+}
+
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+button{
+    font-family:inherit;
+    cursor:pointer;
+}
+
+img{
+    display:block;
+    width:100%;
+}
+
+#root{
+    min-height:100vh;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar{
+    width:8px;
+}
+
+::-webkit-scrollbar-track{
+    background:#0B1120;
+}
+
+::-webkit-scrollbar-thumb{
+    background:#38BDF8;
+    border-radius:20px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background:#8B5CF6;
+}
+
+/* Background Glow */
+
+body::before{
+    content:"";
+    position:fixed;
+    width:450px;
+    height:450px;
+    background:#38BDF8;
+    filter:blur(180px);
+    opacity:.12;
+    top:-120px;
+    left:-150px;
+    z-index:-2;
+}
+
+body::after{
+    content:"";
+    position:fixed;
+    width:400px;
+    height:400px;
+    background:#8B5CF6;
+    filter:blur(180px);
+    opacity:.12;
+    bottom:-150px;
+    right:-120px;
+    z-index:-2;
+}
